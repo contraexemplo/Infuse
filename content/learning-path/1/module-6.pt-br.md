@@ -67,7 +67,7 @@ Peça para colegas ou quem está te mentorando te enviar um e-mail. Idealmente, 
 
 Discuta suas respostas para as perguntas acima com seu colega ou mentor.
 
-## Recursos de aprendizado
+## Recursos de aprendizagem
 
 {{% resource title="Introdução a e-mails HTML" languages="Múltiplos" cost="Grátis" description="Uma breve introdução ao conceito de enviar e-mails que contêm HTML." url="https://en.wikipedia.org/wiki/HTML_email" %}}
 

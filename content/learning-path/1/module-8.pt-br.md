@@ -59,7 +59,7 @@ Se você está estudando com o auxílio de colegas ou uma pessoa mentora, discut
 - O relatório contém e apresenta informações que podem ser úteis em espaços da sociedade civil, como por exemplo, indicadores de comprometimento (IoCs)?
 - O relatório resume as suas descobertas de forma responsável, por exemplo, desabilitando URLs e censurando dados sensíveis das pessoas-alvo?
 
-## Recursos de aprendizado
+## Recursos de aprendizagem
 
 {{% resource title="Maltego" languages="Inglês" cost="Grátis para uso não-comercial, com uma versão profissional paga" description="Maltego pode ser usado para criar uma representação visual das suas descobertas, tornando a identificação de conexões entre indicadores diferentes mais fácil." url="https://www.maltego.com/" %}}
 

@@ -111,7 +111,7 @@ Alguns kits de phishing também são capazes de burlar autenticação multifator
   - Quando o domínio foi registrado?
   - (Opcional) Que software está sendo utilizado no site?
   - O site foi listado como malicioso por outras pessoas?
-## Recursos de aprendizado
+## Recursos de aprendizagem
 
 {{% resource title="Iran: State-Backed Hacking of Activists, Journalists, Politicians" languages="Inglês" cost="Grátis" description="Um bom relatório de análise de uma campanha de phishing bastante sofisticada que tinha como alvo grupos da sociedade civil. Ele inclui extensas discussões a respeito de infraestrutura e atribuição." url="https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians" %}}
 
