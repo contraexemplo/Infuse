@@ -39,6 +39,22 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.16.0'
+          cache: 'npm'
+      - name: Cache Hugo
+        uses: actions/cache@v2
+        with:
+          path: ~/.hugo_cache
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/hugo.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+      - name: Install dependencies
+        run: npm install
+      - name: Build TailwindCSS
+        run: npm run build-tw
       - name: Checkout
         uses: actions/checkout@v4
         with:
